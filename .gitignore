@@ -30,6 +30,7 @@ __pycache__
 # Logs, etc #
 ######################
 *.log
+*.csv
 
 # OS generated files #
 ######################
